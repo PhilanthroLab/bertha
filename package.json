@@ -7,7 +7,7 @@
   "dependencies": {
     "redis": "~0.8.2",
     "hiredis": "~0.1.14",
-    "memjs": "git://github.com/alevy/memjs.git#master",
+    "memjs": "git://github.com/alevy/memjs.git#v0.5.2",
     "express": "~3.0.6",
     "googleclientlogin": "https://github.com/Ajnasz/GoogleClientLogin/tarball/master",
     "request": "~2.12.0",
