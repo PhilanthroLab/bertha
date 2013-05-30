@@ -13,7 +13,7 @@
     "request": "~2.19.0",
     "buffer-crc32": "~0.2.1",
     "underscore": "~1.4.4",
-    "moment": "~1.7.2",
+    "moment": "~2.0.0",
     "timekit": "~0.1.9",
     "v8tools": "~0.2.2",
     "nodefly": "~0.1.12"
