@@ -2,6 +2,7 @@
 .env
 .foreman
 todo.md
+dump.rdb
 
 old
 node_modules
