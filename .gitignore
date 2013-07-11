@@ -3,6 +3,7 @@
 .foreman
 todo.md
 dump.rdb
+npm-debug.log
 
 old
 node_modules
