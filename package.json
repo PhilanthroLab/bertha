@@ -12,9 +12,9 @@
   "dependencies": {
     "redis": "~0.8.3",
     "hiredis": "~0.1.15",
-    "express": "~3.2.0",
+    "express": "~3.3.6",
     "googleclientlogin": "https://github.com/Ajnasz/GoogleClientLogin/tarball/master",
-    "request": "~2.19.0",
+    "request": "~2.27",
     "buffer-crc32": "~0.2.1",
     "underscore": "~1.4.4",
     "moment": "~2.0.0"
