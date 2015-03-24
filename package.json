@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "buffer-crc32": "~0.2.1",
-    "d3": "~3.3.8",
+    "d3": "^3.5.5",
     "express": "~3.3.6",
     "google-oauth-jwt": "^0.1.4",
     "hiredis": "^0.2.0",
