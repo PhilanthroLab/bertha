@@ -1,0 +1,39 @@
+{
+  "name": "bertha",
+  "description": "Service to convert Google spreadsheets in JSON, JS, CSV, TSV",
+  "repository": "https://github.com/ft-interactive/bertha",
+  "success_url": "/",
+  "env": {
+    "APPLICATION_NAME": {
+      "value": "Bertha",
+    },
+    "MONITOR_QUEUE_ERRORS": {
+      "value": "error"
+    },
+    "MONITOR_QUEUE_EVENTS": {
+      "value": "success"
+    },
+    "NODE_ENV": {
+      "value": "production"
+    },
+    "QUEUE": {
+      "value": "publish"
+    },
+    "REDIS_URL_NAME": {
+      "value": "REDIS_URL"
+    },
+    "GOOGLE_USER": {
+      "required": true
+    },
+    "GOOGLE_CLIENT_EMAIL": {
+      "required": true
+    },
+    "GOOGLE_SERVICE_KEY": {
+      "required": true
+    }
+  },
+  "image": "heroku/nodejs",
+  "addons": [
+    "heroku-redis"
+  ]
+}

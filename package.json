@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app"
+    "start": "node lib/worker & node lib/web"
   },
   "repository": {
     "type": "git",
@@ -31,5 +31,6 @@
   "engines": {
     "node": "0.12.x",
     "npm": "2.9.x"
-  }
+  },
+  "cacheDirectories": ["node_modules"]
 }
