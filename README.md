@@ -4,12 +4,7 @@ bertha
 Bertha is a machine that can produce any item requested of her.
 
 
-# Quick Install
+## Using Bertha
 
-# Deploying to Heroku
+[See the user docs](https://github.com/ft-interactive/bertha/wiki/Tutorial)
 
-# Web
-
-# Workers
-
-# Plugins
