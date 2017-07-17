@@ -29,8 +29,7 @@
     "should": "~1.2.1"
   },
   "engines": {
-    "node": "0.12.x",
-    "npm": "2.9.x"
+    "node": "^8.1.2"
   },
   "cacheDirectories": ["node_modules"]
 }
