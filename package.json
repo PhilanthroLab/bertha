@@ -10,6 +10,7 @@
     "url": "https://github.com/ft-interactive/bertha.git"
   },
   "dependencies": {
+    "@financial-times/sheet-reader": "0.0.0",
     "buffer-crc32": "~0.2.5",
     "d3": "^3.5.5",
     "express": "~3.3.6",
@@ -31,5 +32,7 @@
   "engines": {
     "node": "^8.1.2"
   },
-  "cacheDirectories": ["node_modules"]
+  "cacheDirectories": [
+    "node_modules"
+  ]
 }
