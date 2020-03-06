@@ -24,15 +24,12 @@
     },
     "GOOGLE_USER": {
       "required": true,
-      "generator": "secret"
     },
     "GOOGLE_CLIENT_EMAIL": {
       "required": true,
-      "generator": "secret"
     },
     "GOOGLE_SERVICE_KEY": {
       "required": true,
-      "generator": "secret"
     }
   },
   "image": "heroku/nodejs",
