@@ -23,7 +23,7 @@
       "value": "REDIS_URL"
     },
     "GOOGLE_USER": {
-      "required": true,
+      "required": true
     },
     "GOOGLE_CLIENT_EMAIL": {
       "required": true,
